@@ -1,0 +1,23 @@
+<resources>>
+    <string name="app_name">My Novels</string>
+    <string name="addtext">Add New Novel</string>
+    <string name="sortGenre">Search by Genre</string>
+    <string name="sortStars">Novels w 3+ Stars</string>
+    <string name="nameTitle">Novel Title: </string>
+    <string name="tvAuthor">Author: </string>
+    <string name="tvGenre">Genre: </string>
+    <string name="tvSynopsis">Synopsis / Notes: </string>
+    <string name="tvRating">Rating: </string>
+    <string name="tvStatus">Status: </string>
+    <string name="titleHint">Enter Novel Title Here</string>
+    <string name="authorHint">Enter Author Name Here</string>
+    <string name="genreHint">Enter Genre(s) Here</string>
+    <string name="synopsisHint">Enter Synopsis or Reader Notes Here</string>
+    <string name="rbs1">Not Finished</string>
+    <string name="rbs2">Finished</string>
+    <string name="textInsert">Insert</string>
+    <string name="textShow">Back to List</string>
+    <string name="textUpdate">Update</string>
+    <string name="textDel">Delete</string>
+    <string name="textCancel">Cancel</string>
+</resources>
